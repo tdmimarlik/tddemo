@@ -3019,7 +3019,7 @@ position: absolute;
   line-height: 40px;
   font-size: 20px;
   color: #fff;
-  background: #FD1A5A;
+  background: #b19777;
   text-align: center;
   border-radius: 50%;
 }
@@ -3029,11 +3029,11 @@ position: absolute;
 }
 
 .main-footer .contact-widget .info-list li:nth-child(2) i{
-  background: #84CB74;
+  background: #b19777;
 }
 
 .main-footer .contact-widget .info-list li:last-child i{
-  background: #333333;
+  background: #b19777;
 }
 
 .main-footer .contact-widget .info-list li a{
